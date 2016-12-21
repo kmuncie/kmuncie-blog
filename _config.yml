@@ -4,7 +4,7 @@
 
 # Site
 title: Static Map
-subtitle:
+subtitle: Writing and Ranting
 description: The personal blog of Kevin Muncie
 author: Kevin Muncie
 language: en
@@ -13,6 +13,7 @@ timezone: America/New_York
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://kmuncie.com/blog
+#url: http://localhost:4000/blog/
 root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
