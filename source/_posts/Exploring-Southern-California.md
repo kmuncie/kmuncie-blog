@@ -12,7 +12,7 @@ date: 2013-01-14 11:37:52
 ---
 
 
-![La Jolla with friends](/blog/content/images/2015/08/13---56.jpg)
+![La Jolla with friends](/blog/images/socal1.jpg)
 
 A random opportunity arose last week when I realized a friend from Brooklyn was flying home for a month to Escondido, California. I quickly put together a plan to drive out for a visit as I had never been south of Los Angeles.
 
@@ -24,14 +24,12 @@ Below I have made a really nifty interactive tour, with a service called Triplin
 
 Some of the highlights from the trip you can see below. The beach bonfire on Saturday night put together by my friend Kanan was really excellent. It was a cold night but the beaches in San Clemente are beautiful and a commuter rail line running right next to it really lends to a unique atmosphere.
 
-![San Clemente Beach](/blog/content/images/2015/08/13---61.jpg)
+![San Clemente Beach](/blog/images/socal2.jpg)
 
 I got to visit four local breweries out of the hundreds(?) in the area. [Latitude 33](http://www.lat33brew.com/), [Mother Earth Brew Co.](http://www.motherearthbrewco.com/), [Ballast Point Brewing](http://www.ballastpoint.com/), and [Stone Brewing](http://www.stonebrew.com/) of course.
 
 My favorite was Ballast Point because of the crazy and unique beers they had on tap that day. They don’t really advertise their adventurous stuff on their website, but I highly recommend stopping by if you’re in the area.
 
-![Ballast Point Brewing](/blog/content/images/2015/08/13---21.jpg)
+![Ballast Point Brewing](/blog/images/socal3.jpg)
 
-![Matthew Knight with a seaweed necklace](/blog/content/images/2015/08/13---32.jpg)
-
-![Beautiful Southern California](/blog/content/images/2015/08/13---28.jpg)
+![Beautiful Southern California](/blog/images/socal4.jpg)

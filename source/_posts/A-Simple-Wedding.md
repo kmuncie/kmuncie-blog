@@ -10,13 +10,13 @@ updated: '2015-08-27 14:44:01'
 date: 2015-08-03 00:23:45
 ---
 
-Weddings are full of traditions, they are inescapable. For many couples the true meaning behind each one is not even truly understood. It's just the way things are done. 
+Weddings are full of traditions, they are inescapable. For many couples the true meaning behind each one is not even truly understood. It's just the way things are done.
 
-On [March 28th, 2015](http://www.wolframalpha.com/input/?i=March+28th%2C+2015) I had the privilege of marrying Ace Ahn. Let me explain how we kept our wedding simple and unburdened by countless traditions. 
+On [March 28th, 2015](http://www.wolframalpha.com/input/?i=March+28th%2C+2015) I had the privilege of marrying Ace Ahn. Let me explain how we kept our wedding simple and unburdened by countless traditions.
 
 ## Guest List
 
-This is **the single most important** part of having a simple wedding. If you can't keep the guest list small and simple then it will have huge consequences on everything you try and plan. 
+This is **the single most important** part of having a simple wedding. If you can't keep the guest list small and simple then it will have huge consequences on everything you try and plan.
 
 <img src="https://farm8.staticflickr.com/7794/16742132163_c2ae0e7742_h.jpg" width="100%" alt="Ace & Kevin Muncie Wedding Crowd">
 
@@ -29,7 +29,7 @@ There is *no way* not to hurt some feelings in your quest for a small wedding. Y
 
 ## Location
 
-We looked for a long time for the right location for the reception. But this was also an area that benefited from having a small guest list. Eventually we found a [local nature center](http://www.thprd.org/facilities/nature/nature-center) with a beautiful space that fit our needs perfectly. It also did not cost us enormously like many of the spaces we had looked at. 
+We looked for a long time for the right location for the reception. But this was also an area that benefited from having a small guest list. Eventually we found a [local nature center](http://www.thprd.org/facilities/nature/nature-center) with a beautiful space that fit our needs perfectly. It also did not cost us enormously like many of the spaces we had looked at.
 
 <img src="https://farm9.staticflickr.com/8832/16739862854_0e53cc782d_h.jpg" width="100%" alt="Ace & Kevin Muncie Wedding Friends">
 
@@ -41,17 +41,17 @@ We had no bridal party. We had our closest friends fill some of the duties that 
 
 ## Food
 
-Rather than spending a lot of money on an outside caterer, which would have been nice and simple from a logistical standpoint, we had the Korean friends and family offer to provide food for the reception. This was wonderful and offered many of my personal guests the chance to have authentic Korean food for the first time. The downside of this is that many of the family and guests ended up working very hard to organize and maintain the buffet line. 
+Rather than spending a lot of money on an outside caterer, which would have been nice and simple from a logistical standpoint, we had the Korean friends and family offer to provide food for the reception. This was wonderful and offered many of my personal guests the chance to have authentic Korean food for the first time. The downside of this is that many of the family and guests ended up working very hard to organize and maintain the buffet line.
 
 ## Dancing
 
-We didn't have any dancing. 
+We didn't have any dancing.
 
 ## Photography
 
 <img src="https://farm8.staticflickr.com/7719/17154939287_435e1d27f3_h.jpg" width="100%" alt="Ace & Kevin Muncie Wedding Friends">
 
-A professional photographer would have captured some beautiful photos, but at great cost. We decided to crowd source many of our photos and also ask one of my cousins to be the official photographer. She used my personal camera and got some fantastic shots as you can see below. We also ended up with tons of beautiful photos from the week by creating a unique hastag, [#ahnothermuncie](https://instagram.com/explore/tags/ahnothermuncie/), on Instagram and encouraging all the guests to use it. 
+A professional photographer would have captured some beautiful photos, but at great cost. We decided to crowd source many of our photos and also ask one of my cousins to be the official photographer. She used my personal camera and got some fantastic shots as you can see below. We also ended up with tons of beautiful photos from the week by creating a unique hastag, [#ahnothermuncie](https://instagram.com/explore/tags/ahnothermuncie/), on Instagram and encouraging all the guests to use it.
 
 [Visit our Flickr album](https://www.flickr.com/photos/kmuncie/sets/72157651674949890) to see all the amazing photos from this amazing week! [Our wedding website](http://muncie.us) is also still up if you would like to see it or [send a gift](http://cash.me/$wedding).
 
