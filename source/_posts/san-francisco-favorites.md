@@ -19,7 +19,7 @@ When you visit I hope the following suggestion help, they are our favorite place
 
 ## Food
 
-San Francisco is a diverse city with many health conscious people. It also has a huge number of wealthy people, so the foodie scene is extremely strong and good food can be found in all corners. We tend to look for affordable, authentic food made by people who care. This list is a reflection of that. 
+San Francisco is a diverse city with many health conscious people. It also has a huge number of wealthy people, so the foodie scene is extremely strong and good food can be found in all corners. We tend to look for affordable, authentic food made by people who care. This list is a reflection of that.
 
 ### Kabul Afghan Cuisine (Peninsula)
 
@@ -41,9 +41,15 @@ This is a large but authentic place to get Chinese food. The Salt & Pepper Crab 
 
 ### Toyose
 
-Hole-in-the-wall Korean restaurant that gets filled up very quickly. Great food and cool atmosphere. 
+Hole-in-the-wall Korean restaurant that gets filled up very quickly. Great food and cool atmosphere.
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d788.6431803594692!2d-122.50475358969369!3d37.75316711993062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085878f9f9f11cf%3A0xfd64eba5d8632b7b!2sToyose!5e0!3m2!1sen!2sus!4v1514871526456 100% 300px %}
+
+### Yummy Yummy
+
+No-frills Vietnamese restaurant where you can comfort your insides when the fog is rolling in.
+
+{% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50456.600939807526!2d-122.47020389189646!3d37.77744008174936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085875d8371dde5%3A0x98b2b7418c3b872e!2sYummy+Yummy!5e0!3m2!1sen!2sus!4v1514943622913 100% 300px %}
 
 ### Fisherman's Wharf Clam Chowder
 
@@ -87,7 +93,7 @@ Great bakery near the beach. Usually a line and you will for sure order too many
 
 ### Andytown Coffee Roasters
 
-This coffee shop is modern and creates some very unique espresso drinks. 
+This coffee shop is modern and creates some very unique espresso drinks.
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25235.15163263562!2d-122.51794191007956!3d37.757359885972015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9c828cfd8df4653!2sAndytown+Coffee+Roasters!5e0!3m2!1sen!2sus!4v1514871293428 100% 300px %}
 
@@ -99,7 +105,7 @@ Unbelievably good bakery that has a huge number of offerings and an open kitchen
 
 ### Saint Frank Coffee
 
-I would come here just for the ambiance. A very minimalist and straightforward coffee shop offering great espresso and pour-over coffee creations. 
+I would come here just for the ambiance. A very minimalist and straightforward coffee shop offering great espresso and pour-over coffee creations.
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12612.234189821875!2d-122.42631506902202!3d37.788667664970106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1a6c72e2732c9aab!2sSaint+Frank+Coffee!5e0!3m2!1sen!2sus!4v1514871639682 100% 300px %}
 
@@ -107,18 +113,47 @@ I would come here just for the ambiance. A very minimalist and straightforward c
 
 ### Musée Mécanique
 
-A very unique place. A huge warehouse filled with antique arcade machines you can actually play. 
+A very unique place. A huge warehouse filled with antique arcade machines you can actually play.
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12610.112912139566!2d-122.43645466036423!3d37.801094554883505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808580e254330009%3A0xed9aa8b90062eab8!2zTXVzw6llIE3DqWNhbmlxdWU!5e0!3m2!1sen!2sus!4v1514871962659 100% 300px %}
 
 ### Muir Woods
 
-Everyone should see the Redwood trees once in their life. This is the easiest grove to get to from the city and well worth the drive. 
+Everyone should see the Redwood trees once in their life. This is the easiest grove to get to from the city and well worth the drive.
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25191.072182654545!2d-122.5850704967558!3d37.88639486776788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085903936e29ad5%3A0xe31e5d81fcb8ae37!2sMuir+Woods+Visitor+Center!5e0!3m2!1sen!2sus!4v1514872081265 100% 300px %}
 
-## Beer
+## Drinks
 
-Coming soon...
+### Mikkeller Bar
 
-Reach out on Twitter ([kmuncie](https://twitter.com/kmuncie)) to let me know if these recommendations help you or if you have any you think I missed!
+Mikkeller makes amazing beer and this is a large cool spot for getting some world class pours and bottles.
+
+{% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25229.517622018444!2d-122.419582268545!3d37.77387337216822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x99d9aa0a8794222f!2sMikkeller+Bar!5e0!3m2!1sen!2sus!4v1514943004884 100% 300px %}
+
+### The Tonga Room
+
+A historic tiki bar in the Fairmont Hotel. It's touristy and all about sweet but strong tropical drinks, but its an absolute blast with a group of friends.
+
+{% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.910564315736!2d-122.41216598515267!3d37.792135679756264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085808d1ad53055%3A0xef5f5fa21e8d5af9!2sTonga+Room+%26+Hurricane+Bar!5e0!3m2!1sen!2sus!4v1514943149509 100% 300px %}
+
+### Samovar Tea Lounge
+
+If you don't want an alcoholic drink you can go to Samovar for a very upscale tea experience. It's not cheap but you will find some of the best teas in the world available here.
+
+{% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6306.071485642026!2d-122.41029916777595!3d37.78920211383217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdcbd19f86c695545!2sSamovar+Tea+Lounge%2C+Yerba+Buena+Gardens!5e0!3m2!1sen!2sus!4v1514943402920" 100% 300px %}
+
+### The Rare Barrel
+
+Large, cool brewery that specializes in sour aged beers. Delicious stuff!
+
+{% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50399.06819079276!2d-122.33765573702901!3d37.861653080976396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5ab50da0a7efc299!2sThe+Rare+Barrel!5e0!3m2!1sen!2sus!4v1514942419049 100% 300px %}
+
+### Russian River Brewing Company (Santa Rosa)
+
+One of the best breweries in the world for IPA lovers. Makers of Pliny the Elder and great many other outstanding beers. It's a drive from San Francisco but totally worth it. Santa Rosa has lots to offer.
+
+{% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d199933.1233871036!2d-122.93503798629945!3d38.465598961172475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x70372ccdef58e9f!2sRussian+River+Brewing+Company!5e0!3m2!1sen!2sus!4v1514942562125 100% 300px %}
+
+
+Reach out on Twitter ([@kmuncie](https://twitter.com/kmuncie)) to let me know if these recommendations help you or if you have any you think I missed!
