@@ -10,7 +10,7 @@ tags:
    - places
 ---
 
-*Updated September 2019*
+*Updated November 2019*
 
 I very nearly moved to Portland, Oregon back in 2009 but it never ended up being a home for me. Instead, it is a place I absolutely love to visit. Below are some of our favorite places in Portland. I hope it comes in handy!
 
