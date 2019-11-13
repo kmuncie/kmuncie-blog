@@ -56,6 +56,12 @@ Want something unqiue that you won't find anywhere else? This place offers delic
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11178.202396543822!2d-122.68317818641663!3d45.539248349870064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x57f94f542b5c37c9!2sBroder+Nord!5e0!3m2!1sen!2sus!4v1494986516687 100% 300px %}
 
+### Tasty n Daughters
+
+Formerly called Tasty n Sons this "tasty" resturant has a great breakfast or brunch. If this location is not ideal they have a similar resutrant called Tasty n Alder in the downtown area of Portland.
+
+{% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.226705205342!2d-122.61765758405741!3d45.50551477910142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5495a1c4196ef5cf%3A0x604c59e597dd73a5!2sTasty%20n%20Daughters!5e0!3m2!1sen!2sus!4v1573608537409!5m2!1sen!2sus 100% 300px %}
+
 ### Irving Street Kitchen
 
 Upscale resturant with a nice Sunday brunch. Great biscuits and cocktails.
@@ -95,6 +101,12 @@ Not the absolute best in the city but certainly the best on Alberta St. It's wor
 Amazing ambiance in this airy coffee roastery slash wood working business. Great place to stop in.
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22363.222165574633!2d-122.6726458542898!3d45.52209984992982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc63aec4f3d1b3aad!2sCoava+Coffee+Roasters!5e0!3m2!1sen!2sus!4v1494987640900 100% 300px %}
+
+### Spella Coffee
+
+A super tiny italian espresso shop. Ace really loves the affogato here.
+
+{% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.5232760159256!2d-122.67896968405717!3d45.51967447910169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950a044ab4b48f%3A0x2d3bdbd5d42f6e52!2sSpella%20Caffe!5e0!3m2!1sen!2sus!4v1573608705067!5m2!1sen!2sus 100% 300px %}
 
 ## Drinks
 
