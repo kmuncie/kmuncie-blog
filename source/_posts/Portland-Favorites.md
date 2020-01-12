@@ -10,7 +10,7 @@ tags:
    - places
 ---
 
-*Updated November 2019*
+*Updated January 2020*
 
 I very nearly moved to Portland, Oregon back in 2009 but it never ended up being a home for me. Instead, it is a place I absolutely love to visit. Below are some of our favorite places in Portland. I hope it comes in handy!
 
@@ -19,6 +19,14 @@ I very nearly moved to Portland, Oregon back in 2009 but it never ended up being
 ## Food
 
 Portland is a foodie town. You will be overwhelmed by the sheer number of highly reviewed resturants in almost all corners of the city. Here are a few of our personal favorites.
+
+### Sesame Donuts
+
+Forget about Vodoo Donuts, go to Sesame Donuts. They have multiple locations though we prefer this 24/7 location. Ask for a sample of the sesame donut holes, they are surprisingly good. One of my favorite donut shops in the country.
+
+{% iframe
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22375.22053158435!2d-122.73117649105968!3d45.491906769556024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3f11bd54615e041b!2sSesame%20Donuts!5e0!3m2!1sen!2sus!4v1578812521971!5m2!1sen!2sus
+100% 300px %}
 
 ### Little Big Burger
 
@@ -43,6 +51,14 @@ A must-have for a breakfast or brunch, the waffles explode with sugar and delici
 A burger shop that does things in a very Portland way. _Submitted by Cameron R._
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.5070043670426!2d-122.68301168405709!3d45.52000197910169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950a0426af5ee5%3A0xc96d674051e321eb!2sBrunch%20Box!5e0!3m2!1sen!2sus!4v1572997846266!5m2!1sen!2sus 100% 300px %}
+
+### Yama Sushi & Sake Bar
+
+Super fresh high end sushi bar with creative and delicious seasonal offerings. Go for a premium sake while here.
+
+{% iframe
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5590.093032307138!2d-122.67923997148014!3d45.52926947818683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc37cde2c797fdbb2!2sYama%20Sushi%20%26%20Sake%20Bar!5e0!3m2!1sen!2sus!4v1578812113339!5m2!1sen!2sus
+100% 300px %}
 
 ### Screen Door
 
@@ -74,21 +90,32 @@ There is rarely a spot to sit down and relax but this is one of the most authent
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22364.31680493564!2d-122.69240498556348!3d45.519345911484685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7ad948e429241faa!2sKen&#39;s+Artisan+Bakery!5e0!3m2!1sen!2sus!4v1494986762287 100% 300px %}
 
-### Original Hotcake House
-
-The most legit and old-school place to eat in Portland. Open 24/7 for your pancake and breakfast needs. We almost always come here at least once during a trip.
-
-{% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1398.225769354077!2d-122.65482552154552!3d45.50098826094304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6883e82b2ac33150!2sOriginal+Hotcake+House!5e0!3m2!1sen!2sus!4v1494988753027 100% 300px %}
-
 ### Salt & Straw
 
 Extremely unqiue ice cream flavors that will blow your mind. Sample everything before choosing.
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2793.576418065573!2d-122.64752696651898!3d45.558845915222804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd1dbbc1a8d3908ab!2sSalt+%26+Straw!5e0!3m2!1sen!2sus!4v1494987089419 100% 300px %}
 
+### Beaverton Sub Station
+
+Wonderful sandwich shop thats been around for a long time. Train themed inside and right on the railroad tracks. Come here for a classic sub
+that wont dissapoint.
+
+{% iframe
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.055014134661!2d-122.80901204524886!3d45.48883689926206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x877d66adecc5a426!2sBeaverton%20Sub%20Station!5e0!3m2!1sen!2sus!4v1578811786217!5m2!1sen!2sus
+100% 300px %}
+
 ## Coffee
 
 Portland, like Seattle, is serious about coffee. Below are our favorite places to get caffeinated.
+
+### Never Coffee
+
+Pricey but some of the most uniquely flavored lattes we have ever had. Super delicious! Location downtown and in Southeast on Belmont.
+
+{% iframe
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.435880041914!2d-122.68610658405711!3d45.52143347910165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950b932fcf87e9%3A0xcb6b31ed4bd8fb7!2sNever%20Coffee!5e0!3m2!1sen!2sus!4v1578811505859!5m2!1sen!2sus
+100% 300px %}
 
 ### Barista
 
@@ -107,6 +134,14 @@ Amazing ambiance in this airy coffee roastery slash wood working business. Great
 A super tiny italian espresso shop. Ace really loves the affogato here.
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.5232760159256!2d-122.67896968405717!3d45.51967447910169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950a044ab4b48f%3A0x2d3bdbd5d42f6e52!2sSpella%20Caffe!5e0!3m2!1sen!2sus!4v1573608705067!5m2!1sen!2sus 100% 300px %}
+
+### Ki Coffee (Beaverton)
+
+Nice comfortable coffee shop in Beaverton that has excellent lattes with creative flavors. Excellent location to relax and use a laptop to
+get some work done.
+
+{% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.193582515379!2d-122.79842268405807!3d45.48604637910116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950c1e8e7d1bbb%3A0xab68610f1bbbc6cf!2sKi%20Coffee!5e0!3m2!1sen!2sus!4v1578811630428!5m2!1sen!2sus
+100% 300px %}
 
 ## Drinks
 
@@ -131,6 +166,14 @@ Great barrel-aged beer, lots of sours and fruit-based experiments. Wide distribu
 This used to be the Green Dragon and our favorite brewery/taproom. It recently was renovated by Rogue so we are not sure how it is now but it used to always have amazing beer on tap.
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.7055718605534!2d-122.65870298452754!3d45.51600527910169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5495a0a0f93664d3%3A0x72d90ae5a626fb22!2sRogue+Eastside+Pub+%26+Pilot+Brewery!5e0!3m2!1sen!2sus!4v1494988944240 100% 300px %}
+
+### Great Notion Brewing
+
+Excellent beer with extremely unqiue flavors. Careful, they may taste like a sweet breakfast treat but they are strong! Location in
+Northwest and Northeast.
+
+{% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2794.527879289857!2d-122.71112428405655!3d45.5397054791019!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x549509eba48517b9%3A0x4213a2f625234a69!2sGreat%20Notion%20Brewing%20NW!5e0!3m2!1sen!2sus!4v1578811927026!5m2!1sen!2sus
+100% 300px %}
 
 ### Pope House Bourbon Lounge
 
