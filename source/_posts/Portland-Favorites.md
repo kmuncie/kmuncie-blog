@@ -98,8 +98,7 @@ Extremely unqiue ice cream flavors that will blow your mind. Sample everything b
 
 ### Beaverton Sub Station
 
-Wonderful sandwich shop thats been around for a long time. Train themed inside and right on the railroad tracks. Come here for a classic sub
-that wont dissapoint.
+Wonderful sandwich shop thats been around for a long time. Train themed inside and right on the railroad tracks. Come here for a classic sub that wont dissapoint.
 
 {% iframe
 https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.055014134661!2d-122.80901204524886!3d45.48883689926206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x877d66adecc5a426!2sBeaverton%20Sub%20Station!5e0!3m2!1sen!2sus!4v1578811786217!5m2!1sen!2sus
@@ -137,8 +136,7 @@ A super tiny italian espresso shop. Ace really loves the affogato here.
 
 ### Ki Coffee (Beaverton)
 
-Nice comfortable coffee shop in Beaverton that has excellent lattes with creative flavors. Excellent location to relax and use a laptop to
-get some work done.
+Nice comfortable coffee shop in Beaverton that has excellent lattes with creative flavors. Excellent location to relax and use a laptop to get some work done.
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.193582515379!2d-122.79842268405807!3d45.48604637910116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54950c1e8e7d1bbb%3A0xab68610f1bbbc6cf!2sKi%20Coffee!5e0!3m2!1sen!2sus!4v1578811630428!5m2!1sen!2sus
 100% 300px %}
@@ -169,8 +167,7 @@ This used to be the Green Dragon and our favorite brewery/taproom. It recently w
 
 ### Great Notion Brewing
 
-Excellent beer with extremely unqiue flavors. Careful, they may taste like a sweet breakfast treat but they are strong! Location in
-Northwest and Northeast.
+Excellent beer with extremely unqiue flavors. Careful, they may taste like a sweet breakfast treat but they are strong! Location in Northwest and Northeast.
 
 {% iframe https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2794.527879289857!2d-122.71112428405655!3d45.5397054791019!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x549509eba48517b9%3A0x4213a2f625234a69!2sGreat%20Notion%20Brewing%20NW!5e0!3m2!1sen!2sus!4v1578811927026!5m2!1sen!2sus
 100% 300px %}
